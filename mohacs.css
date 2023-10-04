@@ -1,0 +1,65 @@
+body{
+  background-size: 70px 70px;
+  background-repeat: repeat-y;
+  background-position: right top;
+  padding: 15px 95px 15px 15px;
+  background-color: #720000;
+  color: white;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#cimkep{
+  float:left;  
+}
+
+#erdekesseg{
+  width:450px;
+  float:right;
+  margin: 0px 0px 20px 15px;
+  background-color: #ffffcc;
+  -ms-transform: rotate(5deg);
+  -webkit-transform: rotate(5deg);
+  transform: rotate(5deg);
+  border: 3px solid white;
+}
+
+h1{
+  font-size:30pt;
+  color:#720000;
+}
+
+.jobbra{
+  text-align: right;
+  float:right;
+  border-style:dashed;
+  margin:15px;
+  width: 600px;
+  height: 500px;
+}
+
+header {
+  text-align: center;
+}
+
+.keret{
+  font-size: 90%;
+  padding: 7px;
+  font-weight: normal;
+  color:#720000;
+  border: 3px dashed black;
+  background-color: white;
+}
+
+ul{
+  font-weight:bold;
+  background: url('./jel.png') no-repeat left top;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+a, a:hover, a:visited, a:active {
+  color: inherit;
+  text-decoration: underline;
+ }
